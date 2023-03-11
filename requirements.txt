@@ -1,2 +1,2 @@
-scikt-learn
+scikit-learn
 plotly
