@@ -12,4 +12,4 @@ if st.button('Giải'):
   else:
     result =-b/a
     st.success(f'Phương trình có 1 nghiệm {result}')
-!streamlit run app.py & npx localtunnel --port 8501
+
