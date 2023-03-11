@@ -1,5 +1,5 @@
 import streamlit as st
-import scikit-learn as sklearn
+import sklearn
 import plotly as plt
 st.title("GIẢI PHƯƠNG TRÌNH BẬC NHẤT")
 a = st.number_input('Tham số a')
